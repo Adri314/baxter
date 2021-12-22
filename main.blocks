@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="A;f|nbV:=?gX(lU~//p?">mySprite</variable><variable type="KIND_SpriteKind" id="9aTG(W`lcoVC)c(#%EOt">Player</variable><variable type="KIND_SpriteKind" id="!)6$2LZJ%aUgfo{g.oS?">Projectile</variable><variable type="KIND_SpriteKind" id="_vx8[ywAh-szS$]G{PWY">Food</variable><variable type="KIND_SpriteKind" id="C#|6xJs.(:+!oJR?rG7F">Enemy</variable></variables><block type="pxt-on-start" id="GS.cvz45,jhc?f=[OG[|" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="?4Mo7]s:q{_RQF*8G`Xr"><value name="color"><shadow type="colorindexpicker" id="57bt`BSb!ArmLylD8}]w"><field name="index">2</field></shadow></value><next><block type="variables_set" id="d)3w-yYb/v[zUTf*K1%p"><field name="VAR" id="A;f|nbV:=?gX(lU~//p?">mySprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="#=Zmmp.#BCpby#/i`3?Y"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f . f 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"rlyT;meh(/DU@T+C[l8f"}}</data></shadow><block type="screen_image_picker" id="p_GL:,bRg0tEe{*B)^^^"><field name="img">img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f . f 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"p_GL:,bRg0tEe{*B)^^^"}}</data></block></value><value name="kind"><shadow type="spritekind" id="pR5a}g5P@q~LGj0!K+[B"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
